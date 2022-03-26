@@ -1,0 +1,1 @@
+[{"title":"Escuadra","price":999,"thumbail":"url1","id":1},{"title":"Calculadora","price":888,"thumbail":"url2","id":2},{"title":"Globo Terraqueo","price":777,"thumbail":"url3","id":3}]
